@@ -1,0 +1,14 @@
+New Game started at -> Time: 2023-09-23T03:47:18.867176 Point – 3 Word count: 5 Game Time : 0 minutes 13 second
+New Game started at -> Time: 2023-09-23T03:48:48.515570 Point – 5 Word count: 5 Game Time : 0 minutes 16 second
+New Game started at -> Time: 2023-09-23T03:49:21.332151 Point – 1 Word count: 7 Game Time : 0 minutes 18 second
+New Game started at -> Time: 2023-09-23T03:49:57.304359 Point – 5 Word count: 6 Game Time : 0 minutes 20 second
+New Game started at -> Time: 2023-09-23T03:55:17.687639 Point – 3 Word count: 3 Game Time : 0 minutes 7 second
+New Game started at -> Time: 2023-09-23T04:00:49.229162 Point – 3 Word count: 5 Game Time : 0 minutes 15 second
+New Game started at -> Time: 2023-09-23T15:00:20.864408 Point – -1 Word count: 5 Game Time : 0 minutes 5 second
+New Game started at -> Time: 2023-09-23T15:07:01.424444 Point – 0 Word count: 5 Game Time : 0 minutes 0 second
+New Game started at -> Time: 2023-09-23T15:10:12.134360 Point – 0 Word count: 5 Game Time : 0 minutes 0 second
+New Game started at -> Time: 2023-09-23T15:10:55.890120 Point – -3 Word count: 10 Game Time : 0 minutes 30 second
+New Game started at -> Time: 2023-09-23T15:21:48.767378 Point – -1 Word count: 10 Game Time : 0 minutes 13 second
+New Game started at -> Time: 2023-09-23T15:22:56.907496 Point – -1 Word count: 5 Game Time : 0 minutes 5 second
+New Game started at -> Time: 2023-09-23T15:23:30.811831 Point – 0 Word count: 10 Game Time : 0 minutes 6 second
+New Game started at -> Time: 2023-09-23T15:42:45.515948 Point – -2 Word count: 10 Game Time : 0 minutes 10 second
